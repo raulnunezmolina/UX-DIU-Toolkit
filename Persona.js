@@ -43,12 +43,9 @@ angular.module("angular", [])
                 Goals: [
                     "Alquilar una plaza para su barco en el puerto",
                     "Alquilar un barco para salir a navegar con su familia",
-                    "Reservar restaurantes cerca del mar",
-                    "Encontrar una web donde pueda gestionar sus reservas fácilmente"
                 ],
 
                 Frustrations: [
-                    "Tiene dificultades para encontrar amarres disponibles",
                     "Le resulta complicado comparar precios de alquiler de barcos",
                     "No le gusta tener que llamar por teléfono para hacer reservas",
                     "Quiere encontrar toda la información del puerto en una sola web"
@@ -100,17 +97,11 @@ angular.module("angular", [])
                 Goals: [
                     "Reservar una plaza de aparcamiento cerca del puerto",
                     "Alquilar un barco para salir a pescar con amigos",
-                    "Comprar cañas, cebos y accesorios de pesca",
-                    "Reservar mesa en un restaurante del puerto",
-                    "Consultar los servicios y horarios desde el móvil"
-                ],
-
+                    "Comprar cañas, cebos y accesorios de pesca"
                 Frustrations: [
                     "Le cuesta encontrar aparcamiento disponible en temporada alta",
                     "No sabe qué barcos puede alquilar ni cuánto cuestan",
-                    "Tiene que visitar varias tiendas para encontrar material de pesca",
-                    "Le es incómodo reservar diferentes servicios en distintas páginas"
-                ],
+                    "Tiene que visitar varias tiendas para encontrar material de pesca"                ],
 
                 Bio: "Laura tiene 29 años y vive en Málaga. Trabaja como diseñadora gráfica y le encanta pasar sus días libres cerca del mar. Suele ir al puerto con su pareja y sus amigos para pescar, comer en restaurantes y disfrutar de excursiones en barco. No tiene barco propio, por lo que está interesada en alquilar uno de vez en cuando. También necesita encontrar aparcamiento y suele comprar material de pesca. Utiliza principalmente el móvil para organizar sus planes y prefiere realizar todas las reservas desde una misma web.",
 
