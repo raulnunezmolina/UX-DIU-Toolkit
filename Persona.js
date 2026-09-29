@@ -23,7 +23,7 @@ angular.module("angular", [])
 
                 Id: 0,
                 Name: "Carlos Martínez",
-                Photo: "man.png",
+                Photo: "empresario.jpg",
                 Quote: "Me encanta disfrutar del mar y navegar",
 
                 Age: 38,
@@ -80,7 +80,7 @@ angular.module("angular", [])
 
                 Id: 1,
                 Name: "Laura Fernández",
-                Photo: "woman.png",
+                Photo: "mujer.jpg",
                 Quote: "Quiero tenerlo todo organizado antes de llegar al puerto",
 
                 Age: 29,
